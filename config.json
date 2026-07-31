@@ -1,0 +1,18 @@
+{
+    "include_price_changes": true,
+    "link_cdata": true,
+    "link_style": "selected_params",
+    "max_items_per_search": 20,
+    "searches": [
+        {
+            "id": "gel-nimbus-x-wide-25.5",
+            "title": "Gel Nimbus",
+            "enabled": true,
+            "url": "https://www.amazon.com/s?k=gel+nimbus&rh=p_n_pt_nav_size_men_shoe%3A1285097011%2Cp_n_pt_nav_size_men_shoe_width%3A1285105011",
+            "include_words": [],
+            "exclude_words": [],
+            "min_price": null,
+            "max_price": null
+        }
+    ]
+}
